@@ -1,0 +1,14 @@
+h1{
+color: red;
+display: block;
+text-align: center;
+background-color: grey;
+font-align: center;
+}
+h2{
+text-align: center;
+}
+p.important{
+font-style: italic;
+color: blue;
+}

@@ -1,0 +1,29 @@
+h1 {
+   background-color: green;
+   color: red;
+   text-align: center;
+ }
+
+
+h2 {
+  color: Purple;
+  font-style: italic;
+}
+
+h3{
+  color: blue;
+  }
+h4 {
+font-weight: bold;
+color: orange
+;
+}
+
+p {
+   font-family: sans-serif;
+}
+
+ul{
+   font-size: 30pxl;
+   line-hieght: 40pxl;
+}
